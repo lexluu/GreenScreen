@@ -8,8 +8,9 @@ import java.awt.Color;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/* Name: Alex Luu
- * Date: June 2019
+/* File: GreenScreen.java
+ * Name: Alex Luu
+ * Date: 02 June 2019
  * Desc: Replaces the green part of a green screen image with the provided
  * replacement image.
  */
